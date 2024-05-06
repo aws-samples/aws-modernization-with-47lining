@@ -10,10 +10,7 @@ This is a Energy Data Insights Workkshop.
 
 ## Description
 
- This is the base repo for building workshops with AWS. It utilizes the Hugo framework which involves simple mark down and HTML elements.
-
- In this workshop you are going to learn how to plan, build, and launch an AWS workshop.
-
+In this hands-on workshop, you will learn how to develop applications and workflows with the Energy Data Insights™ on AWS for the OSDU® Data Platform. We will start by exploring different components of Energy Data Insights and its architecture. We will then dive into the core services of the platform, including authentication, search, dataset, schema, storage and entitlements and legal. We will then learn about the Domain Data Management Services (DDMS) and conclude with reviewing reference architectures when integrating with the Energy Data Insights.
  
 ## Authors
 
