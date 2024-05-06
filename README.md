@@ -1,18 +1,34 @@
-## My Project
+# AWSWorkshop.io base workshop 
 
-TODO: Fill this README out!
+This is a Energy Data Insights Workkshop.
 
-Be sure to:
+## Versions
+ * 1.0
+    * Initial Release:
+    Initial release covering Energy Data Insights, OSDU Data Platform and Core Services.
 
-* Change the title in this README
-* Edit your repository description on GitHub
 
-## Security
+## Description
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+ This is the base repo for building workshops with AWS. It utilizes the Hugo framework which involves simple mark down and HTML elements.
 
-## License Summary
+ In this workshop you are going to learn how to plan, build, and launch an AWS workshop.
 
-The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
+ 
+## Authors
 
-The sample code within this documentation is made available under the MIT-0 license. See the LICENSE-SAMPLECODE file.
+Contributors names and contact info
+
+* Yuriy Gubanov (@ygubanov)
+* Kripa Dixit (@kripa)  
+
+## License
+
+This project is licensed. See the LICENSE.md file for details
+
+## Acknowledgments
+
+* Markdown cheat sheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Learn theme markdown (https://learn.netlify.app/en/cont/markdown/)
+* Menu extras and shortcuts (https://learn.netlify.app/en/cont/menushortcuts/) 
+* Using Font Awesome Emoji's to help your page pop (https://learn.netlify.app/en/cont/icons/)
