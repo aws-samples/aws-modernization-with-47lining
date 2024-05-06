@@ -23,7 +23,7 @@ Parameters:
   GitHubRepo:
     Type: String
     Description: repo name
-    Default: aws-modernization-with-47lining
+    Default: aws-modernization-xxxxxxx
   FullRepoURL:
     Type: String
     Description: The full url to the repo
