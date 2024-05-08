@@ -46,7 +46,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]] 
 name = "<i class='fas fa-graduation-cap'></i> Energy Data Insights on AWS"
-url = "https://aws.amazon.com/solutions/implementations/energy-data-insights-on-aws/"
+url = "https://aws.amazon.com/energy-utilities/osdu-data-platform/"
 weight = 10
 
 [markup]

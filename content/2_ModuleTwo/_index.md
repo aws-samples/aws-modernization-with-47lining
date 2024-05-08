@@ -8,7 +8,7 @@ weight: 2
 
 NOTE: If this workshop is being delivered as part of the event, EDI access will be provided to you by instructors and you can skip this module.
 
-[Express for Energy Data Insights (EDI)](https://aws.amazon.com/marketplace/pp/prodview-n3hoeanhhzcmm) is available via AWS Marketplace by 47Lining, Hitachi Digital Services, an AWS Energy Partner. For the purposes of this workshop, and if you don't already have access to an EDI instance, it recomended that you subscribe to a multi-tenant Software-as-a-Service (SaaS) option of Express for EDI offering. 
+[Express for Energy Data Insights (EDI)](https://aws.amazon.com/marketplace/pp/prodview-n3hoeanhhzcmm) is available via AWS Marketplace by 47Lining, Hitachi Digital Services, an AWS Energy Partner. For the purposes of this workshop, and if you don't already have access to an EDI instance, it is recommended that you subscribe to a multi-tenant Software-as-a-Service (SaaS) option of Express for EDI offering. 
 
 {{% notice info %}}
 <p style='text-align: left;'>

@@ -1,4 +1,4 @@
-# AWSWorkshop.io base workshop 
+# Energy Data Insights Workkshop
 
 This is a Energy Data Insights Workkshop.
 
