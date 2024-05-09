@@ -21,4 +21,4 @@ The examples and sample code provided in this workshop are intended to be consum
 {{% /notice %}}
 
 ### Next Section Heading
-Next, we will walk trhough the step by steps suscription to EDI Express via AWS Marketplace
+Next, we will walk through the step by step subscription to EDI Express via AWS Marketplace

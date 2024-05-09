@@ -11,7 +11,7 @@ weight: 4
 A schema is a data model definition. EDI Data Platform's Data Model is defined in rich JSON objects. Each schema has ID and version:
 <authority:source:entity-type:major-version.minor-version.patch-version. For example, <em>osdu:wks:master-data--Well:1.0.0</em>. Schema scopes can be INTERNAL or SHARED. The Schema service architecture is presented below.
 
-![Schema service architecture](/images/search.png)
+![Schema service architecture](/images/schema.png)
 
 ## Lab
 

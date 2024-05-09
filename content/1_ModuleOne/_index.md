@@ -8,7 +8,7 @@ weight: 1
 
 ## Learning Objectives 
 
-The goal of this workshop to faimiliarize you with Energy Data Insights™ (EDI) on AWS for the OSDU® Data Platform and it's Application Program Interfaces (APIs). You will learn how to leverage the APIs for your application integration needs using Python and Integrated Development Environment (IDE) of you choice.
+The goal of this workshop to familiarize you with Energy Data Insights™ (EDI) on AWS for the OSDU® Data Platform and it's Application Program Interfaces (APIs). You will learn how to leverage the APIs for your application integration needs using Python and Integrated Development Environment (IDE) of you choice.
 
 ## Workshop Structure
 This workshop consists of the following modules.

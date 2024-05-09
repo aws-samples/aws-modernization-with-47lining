@@ -256,4 +256,4 @@ Note both the number of wells and the limited subset of fields returned
 
 Congratulations! You have completed this lab!
 
-Great, you have sucessfully authenticated against EDI platform on AWS. Now, let's explore Search service.
+Great, you have successfully authenticated against EDI platform on AWS. Now, let's explore Dataset service.

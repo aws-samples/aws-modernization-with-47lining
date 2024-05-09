@@ -23,7 +23,7 @@ weight: 1
 5. If using Express for EDI for the first time, Create Account. Otherwise, Sign In.
 ![Express for EDI - Sign in / Subscribe](/images/edi_subscribe_5.png)
 
-6. After logged in, fill out the necessary information needed for your subscription. It is recomended to select "Multi-tenant" for Tenacy option to save costs and speed up environment provisioning for the current workshop. Once all parameters are filled out, click "Next".
+6. After logged in, fill out the necessary information needed for your subscription. It is recommended to select "Multi-tenant" for Tenancy option to save costs and speed up environment provisioning for the current workshop. Once all parameters are filled out, click "Next".
 ![Express for EDI - Sign in / Subscribe](/images/edi_subscribe_3.png)
 
 7. The environment will be provisioned and you should be notified by e-mail. 

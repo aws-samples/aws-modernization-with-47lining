@@ -12,7 +12,7 @@ The Entitlements and Legal service is used to find any data that is stored withi
 
 When data is registered with Energy Data Insights on AWS, metadata records are stored via the Storage service and an event is generated, which initiates the indexing of that metadata. Indexing is done using Elasticsearch. The Entitlements and Legal service is a secure interface to an internal, fully managed Elasticsearch index. The architecture of the Entitlements and Legal service is shown below. 
 
-![Entitlements and Legal service architecture](/images/search.png)
+![Entitlements and Legal service architecture](/images/entitlements_legal.png)
 
 This lab explores on groups and how to add a user into appropriate OSDU group using entitlements service. Until we assign a user into groups the user will not be able to access any of the OSDU services or records.
 
