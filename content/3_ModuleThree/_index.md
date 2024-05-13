@@ -32,4 +32,4 @@ The examples and sample code provided in this workshop are intended to be consum
 {{% /notice %}}
 
 ### Authentication Service
-First, we explore the Authencation Service
+First, we explore the Authentication Service

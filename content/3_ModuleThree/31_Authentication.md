@@ -8,7 +8,7 @@ weight: 1
 
 ## Technical Details 
 
-In this module, we will learn on how to use AWS Python SDK to geneate JWT bearer token which will be used to access OSDU APIs. Note that user creation is already done here, and the username and password should have been sent to your email prior to this workshop. The overall authentication flow is shown below.
+In this module, we will learn on how to use AWS Python SDK to generate JWT bearer token which will be used to access OSDU APIs. Note that user creation is already done here, and the username and password should have been sent to your email prior to this workshop. The overall authentication flow is shown below.
 
 ![EDI Authentication](/images/authentication.jpg)
 
